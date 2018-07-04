@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Hello Jenkins</title>
+		<meta charset="utf-8" />
+	</head>
+	<body>
+		<h1>Hello Jenkins</h1>
+	</body>
+</html>
